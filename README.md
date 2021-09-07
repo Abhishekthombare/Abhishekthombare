@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishekthombare
 - 👀 I’m Salesforce Enthusiastic Learner. 
-- 🌱 I’m currently learning LWC, Copado, Mulesoft.
+- 🌱 I’m currently learning LWC, Salesforce DevOps.
 - 💞️ I’m looking to collaborate on my blog which will be get published soon..
 - 📫 How to reach me abhicomps2@gmail.com
 
